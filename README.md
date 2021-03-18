@@ -1,4 +1,1 @@
-
-https://barna-code.github.io/plinko-score-complete/
-
-
+https://softwarechasers11.github.io/Plinko/
